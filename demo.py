@@ -1,4 +1,4 @@
 def check():
-    print("Checking Pylint")
+    print("Checking Pylint github actions")
 
 print(check())
