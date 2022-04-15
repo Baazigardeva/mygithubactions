@@ -1,9 +1,4 @@
-def hello():
-    print("hi"
+def check():
+    print("Checking Pylint")
 
-
-def bye():
-    print("bye")
-
-
-print(hello())
+print(check())
